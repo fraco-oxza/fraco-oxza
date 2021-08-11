@@ -1,4 +1,4 @@
-### Hello there, I’m Francisco 
+### Hello there, I’m Francisco 👋
 <br/>
 
 - 🇨🇱 I from Chile
@@ -20,7 +20,7 @@ my experience
 <img src="https://img.icons8.com/color/30/000000/linux--v1.png"/>
 
 
-<a style=font-size:10px href="https://icons8.com/icon/EAUyKy3IwmqM/html-5">icons by Icons8</a>
+<a style=font-size:5px href="https://icons8.com/icon/EAUyKy3IwmqM/html-5">icons by Icons8</a>
 <!---
 fraco-oxza/fraco-oxza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
